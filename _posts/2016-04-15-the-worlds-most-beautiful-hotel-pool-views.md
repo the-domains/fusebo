@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-03T17:07:05.042Z'
+datePublished: '2016-06-03T17:07:36.455Z'
 sourcePath: _posts/2016-04-15-the-worlds-most-beautiful-hotel-pool-views.md
 inFeed: true
 isBasedOnUrl: 'https://www.thrillist.com/travel/nation/best-hotel-pool-views-in-miami-hong-kong-new-york-mexico-and-the-caribbean/travel'
@@ -24,7 +24,7 @@ author:
   - name: '@mmeltrez'
     url: 'https://www.twitter.com/@mmeltrez'
     avatar: {}
-dateModified: '2016-06-03T17:06:52.928Z'
+dateModified: '2016-06-03T17:07:04.244Z'
 title: "The World's Most Beautiful Hotel Pool Views"
 app_links:
   - namespace: twitter
