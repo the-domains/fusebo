@@ -1,0 +1,14 @@
+layout_spectrum: 0.33838724298402667
+typography_spectrum: 0.18517503514885902
+color:
+  brandStrength: 0.625359711702913
+  lightness: 0.12860119552351534
+  saturation: 0.8494143839925528
+  rhythmicContrast: 0.915904491674155
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: FUSEBO
