@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-03T17:07:05.037Z'
+datePublished: '2016-06-03T17:07:36.447Z'
 sourcePath: _posts/2016-04-16-design-indaba-2016-interview-with-jaime-hayon.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/design/interview-designer-jaime-haydon-design-indaba'
@@ -17,7 +17,7 @@ keywords:
   - 21st
 related: []
 author: []
-dateModified: '2016-06-03T17:06:54.936Z'
+dateModified: '2016-06-03T17:07:14.323Z'
 title: 'Design Indaba 2016: Interview With Jaime Hayon'
 app_links: []
 publisher:
