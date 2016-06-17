@@ -2,8 +2,8 @@
 description: >-
   It's been 8 years since FUSEBO was born, and yet it still feels like yesterday
   when it all began.
-dateModified: '2016-06-17T08:02:56.587Z'
-datePublished: '2016-06-17T08:03:52.767Z'
+dateModified: '2016-06-17T08:04:57.259Z'
+datePublished: '2016-06-17T08:04:57.543Z'
 title: >-
   EVERY STORY HAS A BEGINNING AND IF IT’S TOLD WELL, YOU'RE IN NO RUSH TO GET TO
   THE END
