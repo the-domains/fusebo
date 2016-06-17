@@ -2,8 +2,8 @@
 description: >-
   It's been 8 years since FUSEBO was born, and yet it still feels like yesterday
   when it all began.
-dateModified: '2016-06-17T08:10:48.998Z'
-datePublished: '2016-06-17T08:45:37.873Z'
+dateModified: '2016-06-17T08:51:20.063Z'
+datePublished: '2016-06-17T08:51:27.581Z'
 title: >-
   EVERY STORY HAS A BEGINNING AND IF IT’S TOLD WELL, YOU'RE IN NO RUSH TO GET TO
   THE END
@@ -16,10 +16,9 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9fc82f9-9f13-4422-ada7-747a61e1e6c5.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa3c0257-0b42-4ae6-a5c5-d1b47be1a65a.png)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/906e3517a8f93236a9b2f1cc69e819e2/croprotate.jpg?cropheight=865&cropwidth=1300&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa9fc82f9-9f13-4422-ada7-747a61e1e6c5.jpg&x=0&y=0)
 
-# EVERY STORY HAS A BEGINNING AND IF IT'S TOLD WELL, YOU'RE IN NO RUSH TO GET TO THE END
+### EVERY STORY HAS A BEGINNING AND IF IT'S TOLD WELL, YOU'RE IN NO RUSH TO GET TO THE END
 
 It's been 8 years since FUSEBO was born, and yet it still feels like yesterday when it all began.
 
@@ -54,8 +53,6 @@ Here are some choicest phrases we've saved from some of our client interactions:
 "Budgets aren't a constraint really- we just want the best user experience money can buy. So give us your most competent rates- we've 7 quotations to choose from."
 
 Yes, our clients are only human and we love them for that. Understandably, almost all of FUSEBO's work thus far has been secured through word of mouth and referrals and the accidental social introduction that blossoms into 6 months of consulting work.
-
-https://www.youtube.com/watch?v=Eh\_GFkdxwbQ
 
 [0]: http://www.fusebo.com/index#brandStory
 [1]: http://www.fusebo.com/index
