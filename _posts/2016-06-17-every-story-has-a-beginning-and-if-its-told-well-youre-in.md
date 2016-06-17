@@ -2,14 +2,14 @@
 description: >-
   It's been 8 years since FUSEBO was born, and yet it still feels like yesterday
   when it all began.
-dateModified: '2016-06-17T08:00:31.872Z'
-datePublished: '2016-06-17T08:00:57.292Z'
+dateModified: '2016-06-17T08:02:56.587Z'
+datePublished: '2016-06-17T08:03:52.767Z'
 title: >-
   EVERY STORY HAS A BEGINNING AND IF IT’S TOLD WELL, YOU'RE IN NO RUSH TO GET TO
   THE END
 author: []
-starred: false
 sourcePath: _posts/2016-06-17-every-story-has-a-beginning-and-if-its-told-well-youre-in.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
